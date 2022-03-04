@@ -1,0 +1,1 @@
+# zomb2-smart-contract-abi
